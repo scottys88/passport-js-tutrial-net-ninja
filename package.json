@@ -1,0 +1,24 @@
+{
+  "name": "passport-js-tutrial-net-ninja",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://scottys88@github.com/scottys88/passport-js-tutrial-net-ninja.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottys88/passport-js-tutrial-net-ninja/issues"
+  },
+  "homepage": "https://github.com/scottys88/passport-js-tutrial-net-ninja#readme",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.5"
+  }
+}
